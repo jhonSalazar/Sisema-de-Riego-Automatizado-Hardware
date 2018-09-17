@@ -15,9 +15,9 @@ organizado de los riegos realizados.
 # Motivación que generó esta idea
 Simplificar el cuidado de un huerto a distancia y optimizar el riego.
 
+ # COMPONENETES:
 
- COMPONENETES:
- 1)GPIO
+1)GPIO
  2)Teclado matricial
  3)Display 7 Segmentos
  4)Display LCD
