@@ -14,3 +14,17 @@ organizado de los riegos realizados.
 
 # Motivación que generó esta idea
 Simplificar el cuidado de un huerto a distancia y optimizar el riego.
+
+
+# COMPONENETES:
+# GPIO	X	
+# Teclado matricial		X
+# Display 7 Segmentos	X	
+# Display LCD	X	
+# Display Matricial		X
+# ADC	X	
+# DAC		X
+# Más de una UART	X	
+# Temporizador/Contador 	X	
+# Interrupciones externas	X	
+# Interrupciones de GPIO	X	
