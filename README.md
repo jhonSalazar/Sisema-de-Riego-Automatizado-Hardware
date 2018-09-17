@@ -17,14 +17,14 @@ Simplificar el cuidado de un huerto a distancia y optimizar el riego.
 
 
  COMPONENETES:
- 1)GPIO	
- 2)Teclado matricial		X
- 3)Display 7 Segmentos	X	
- 4)Display LCD	X	
- 5)Display Matricial		X
- 6)ADC	X	
- 7)DAC		X
- 8)Más de una UART	X	
- 9)Temporizador/Contador 	X	
- 10)Interrupciones externas	X	
- 11)Interrupciones de GPIO	X	
+ 1)GPIO
+ 2)Teclado matricial
+ 3)Display 7 Segmentos
+ 4)Display LCD
+ 5)Display Matricial
+ 6)ADC
+ 7)DAC
+ 8)Más de una UART
+ 9)Temporizador/Contador
+ 10)Interrupciones externas
+ 11)Interrupciones de GPIO
